@@ -1,1 +1,20 @@
 1.How would you explain a complex design to a non-technical person?
+   Before talking about why the design matters and how it helps people. 
+  Use examples they can relate to it.Couldn't use technical words unless you have to, and if you do, explain them right away in simple terms.
+
+2.What is a P&ID? 
+A P&ID Piping and Instrumentation Diagram is a detailed drawing that helps engineers and operators understand how a process system functions and 
+how different components interact with each other.
+
+3.What is DTSI technology?
+DTSI - Digital Twin Spark Ignition.
+In regular engines, there's one spark plug that creates sparks regularly. But in DTSI, there are two spark plugs that create sparks one after
+the other. So, in the same amount of time, DTSI engines have twice as many sparks compared to normal engines.
+
+4.Explain heat treatment. Why and how is it done?
+Heat treatment is commonly used to alter or strengthen materials' structure through a heating and cooling process. It can be applied to
+both ferrous and non-ferrous metals.
+
+5.What is a pneumatic system and where is it used?
+A pneumatic system uses compressed air to control the movement of mechanical components. They are used in a
+wide range of applications like, manufacturing, automation, automobiles,etc..,
